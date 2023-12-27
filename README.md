@@ -17,8 +17,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
--  [Solution URL](https://www.frontendmentor.io/solutions/news-homepage-challenge-VN0iTidjW9)
--  [Live Site URL](https://liam-mcleod.github.io/news-homepage-main/)
+-  [Solution URL](https://www.frontendmentor.io/solutions/blog-preview-card-Wq853xwm3f)
+-  [Live Site URL](https://liam-mcleod.github.io/blog-preview-card-main/)
 
 ## Author
 - Frontend Mentor - [@Liam-McLeod](https://www.frontendmentor.io/profile/Liam-McLeod)
